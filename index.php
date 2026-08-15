@@ -12,7 +12,8 @@
 <body>
 
     <header class="site-header">
-        <div class="logo">TechFix</div>
+        <div class="logo">RepairTrack
+        </div>
         <nav>
             <a href="#services">Services</a>
             <a href="#contact">Contact</a>

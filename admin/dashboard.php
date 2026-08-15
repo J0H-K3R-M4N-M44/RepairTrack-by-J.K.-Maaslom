@@ -7,13 +7,13 @@ require_once __DIR__ . '/../config/database.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard — TechFix</title>
+    <title>Admin Dashboard — RepairTrack</title>
     <link rel="stylesheet" href="../css/login.css">
 </head>
 <body>
 
     <header class="admin-header">
-        <div class="logo">TechFix Admin</div>
+        <div class="logo">RepairTrack Admin</div>
         <nav>
             <span>Welcome, <?php echo htmlspecialchars($_SESSION['admin_username']); ?></span>
             <a href="logout.php" class="logout-link">Logout</a>
